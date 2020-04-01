@@ -1,10 +1,10 @@
-Appendix: If you want to use the product commercially to sell it then i get 1% of the profit made with the product.
-If you want to use the product in your company (like on your facebook site, website, etc.) but dont want to sell it then i get 1$.
-The same rules stays if you use a version made from one of the contributors but then the contributor gets the reward.
-If you can't reach / contact the contributor then can you pay me instead.
+Appendix: If you want to use the product commercially to sell it then i get 1% of the profit made with the product.  
+If you want to use the product in your company (like on your facebook site, website, etc.) but dont want to sell it then i get 1$.  
+The same rules stays if you use a version made from one of the contributors but then the contributor gets the reward.  
+If you can't reach / contact the contributor then can you pay me instead.  
 
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License  
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
@@ -77,7 +77,7 @@ Where the Licensed Rights include Sui Generis Database Rights that apply to Your
     if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
     You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.  
 
 Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
