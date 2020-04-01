@@ -14,3 +14,4 @@ I provide two different versions. The first is a module for one fan and the seco
 - A control module with pwm to control fan speeds and/or fan colors would be nice.
 - Stackable modules? Maybe possible with noses and indents at the edges of a module?
 - Which file formats are acceptable?
+- Which license should i use? Maybe CC-BY-SA-4.0?
